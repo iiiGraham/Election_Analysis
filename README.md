@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Project Overview
 A Colorado Board of Elections employee has requested an election audit of a recent local congressional election. The audit is focused on determining the winning candidate, number of votes each candidate received, and determining voter turnout in each county in the preceinct.
